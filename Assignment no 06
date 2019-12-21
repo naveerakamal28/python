@@ -1,0 +1,29 @@
+*QUESTION NO 1 :
+    
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of operations (functions) that can be applied to the data structure.
+  
+*QUESTION NO 2 :
+
+One of the principal advantages of object-oriented programming techniques over procedural programming techniques is that they enable programmers to create modules that do not need to be changed when a new type of object is added. A programmer can simply create a new object that inherits many of its features from existing objects. This makes object-oriented programs easier to modify.
+
+*QUESTION NO 3 :
+
+The main difference between them is that we make a method within the class where as a function can be made outside the class.
+
+*QUESTION NO 4 :
+
+~CLASS:
+      
+The class defines all the common properties of the different objects that belong to it.
+
+~OBJECT:
+
+An Object represents an entity either physical (box), conceptual (chemical process), or software (list)
+
+~ATTRIBUTE:
+
+An Attribute is a named property of a class. It has a type. It describes the range of values that that property may hold.
+
+~BEHAVIOR:
+
+determined by how the object acts or reacts to requests (messages) from other objects
